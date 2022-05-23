@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhuvan.Budavi
-- 👀 I’m interested coding,gaming
+- 👀 I’m interested coding,gaming.
 - 🌱 I’m currently learning engineering in electronics and communication
 - 💞️ I’m looking to collaborate on python works
 - 📫 How to reach me ...mail me at bhuvanbudavi071@gmail.com

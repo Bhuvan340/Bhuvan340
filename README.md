@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bhuvan.Budavi
-- 👀 I’m interested coding,gaming.
-- 🌱 I’m currently learning engineering in electronics and communication
-- 💞️ I’m looking to collaborate on python works
+- 👋 Hi, I’m Bhuvan....
+- 👀 I’m interested in coding,gaming,ardiuno and raspberry pi projects.....
+- 🌱 I’m currently pursuing my engineering in electronics and communication feild
+- 💞️ I’m looking to collaborate on python works and ardiuno projects
 - 📫 How to reach me ...mail me at bhuvanbudavi071@gmail.com
 
 <!---
